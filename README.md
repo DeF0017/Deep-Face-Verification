@@ -17,7 +17,6 @@ Deep Face Verification is a deep learning-based project that verifies whether tw
 ## Datasets
 This project uses the LFW (Labeled Faces in the Wild) dataset. You can download it from [Here](https://vis-www.cs.umass.edu/lfw/)
 
-![Alt text]()
 
 ## Acknowledgements
 - This project was inspired by the [FaceNet](https://arxiv.org/pdf/1503.03832) paper.
